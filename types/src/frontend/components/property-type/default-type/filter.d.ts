@@ -8,11 +8,7 @@ declare class Filter extends React.PureComponent<FilterPropertyProps & ThemeProp
     renderInput(): ReactNode;
     render(): ReactNode;
 }
-declare const _default: React.ForwardRefExoticComponent<Pick<import("../base-property-props").BasePropertyProps & {
-    filter: any;
-    onChange: import("../base-property-props").OnPropertyChange;
-    record: undefined;
-} & ThemeProps<DefaultTheme> & React.RefAttributes<Filter>, "filter" | "ref" | "key" | "onChange" | "property" | "resource" | "record" | "where"> & {
+declare const _default: React.ForwardRefExoticComponent<Pick<Pick<any, string | number | symbol> & React.RefAttributes<Filter>, string | number | symbol> & {
     theme?: DefaultTheme | undefined;
 }>;
 export default _default;
