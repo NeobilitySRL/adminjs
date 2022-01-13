@@ -111,7 +111,7 @@
     "rollup": "^2.32.1",
     "rollup-plugin-terser": "^6.1.0",
     "slash": "^3.0.0",
-    "styled-components": "^5.1.0"
+    "styled-components": "^5.3.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
