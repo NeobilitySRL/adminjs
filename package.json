@@ -91,7 +91,7 @@
     "@rollup/plugin-replace": "^2.3.3",
     "@types/babel-core": "^6.25.7",
     "axios": "^0.21.1",
-    "babel-plugin-styled-components": "^1.11.1",
+    "babel-plugin-styled-components": "^1.13.3",
     "commander": "^5.1.0",
     "flat": "^4.1.0",
     "i18next": "19.8.7",
